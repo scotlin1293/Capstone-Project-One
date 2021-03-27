@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block head %}
+    {{super()}}
+    <link rel="stylesheet" href="/static/stylesheets/404.css">
+{% endblock %}
+{% block content %}
+<div class="main">
+    <h1>We Couldn't find that page</h1>
+    <h2>404 Error</h2>
+    <a href="/"><h3>Go Home</h3></a>
+</div>
+{% endblock %}
