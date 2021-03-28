@@ -1,3 +1,18 @@
+Welcome to CineManiacs!
+
+<a href="https://cinemaniacs.herokuapp.com/">View my demo!</a>
+
+## About my project
+
+* Search for movies by title
+* Select from categories including: upcoming, top rated, popular, and now playing.
+* Contains information about the movies such as cast, revenue and recommendations.
+* View the available trailers.
+* Can create an account and log in, to enable features such as lists and reviews. 
+* Add information to user profile.
+* View other lists by other users. 
+
+
 ## Run a local version
 
 1. You will need an API key from [The Movie Database API](https://developers.themoviedb.org/3) to run a local version.
@@ -25,3 +40,24 @@ api_base = "http://api.themoviedb.org/3/"
 ```sh
 flask run
 ```
+
+## Built using
+
+* Python
+* HTML
+* CSS
+* Javascript
+* [The Movie Database API](https://developers.themoviedb.org/3)
+* [JQuery](https://jquery.com)
+* [Axios](https://www.npmjs.com/package/axios)
+* [Jinja](https://jinja.palletsprojects.com/en/2.11.x/)
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+* [Postgres](https://www.postgresql.org/)
+* [SQL Alchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
+* [Flask-Bcrypt](https://flask-bcrypt.readthedocs.io/en/latest/)
+* [WTForms](https://wtforms.readthedocs.io/en/2.3.x/)
+* [Font Awesome](https://fontawesome.com/)
+* [Balloon.css](https://kazzkiq.github.io/balloon.css/)
+* [Muuri](https://muuri.dev/)
+* [Web Animations](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API)
+* [HammerJS](https://hammerjs.github.io/)
