@@ -4,7 +4,7 @@ Welcome to CineManiacs!
 
 ## About my project
 
-* Search for movies by title
+* Search movies by title
 * Select from categories including: upcoming, top rated, popular, and now playing.
 * Contains information about the movies such as cast, revenue and recommendations.
 * View the available trailers.
